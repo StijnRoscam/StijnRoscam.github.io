@@ -14,38 +14,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ApprovalRequestToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/ApprovalRequestToAdd"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ApprovalRequestToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/ApprovalRequestToAdd"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ApprovalRequestToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/ApprovalRequestToAdd"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ApprovalRequestToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/ApprovalRequestToAdd"
               }
             }
           }
@@ -137,38 +121,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ApprovalToEvaluate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ApprovalToEvaluate"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ApprovalToEvaluate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ApprovalToEvaluate"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ApprovalToEvaluate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ApprovalToEvaluate"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ApprovalToEvaluate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ApprovalToEvaluate"
               }
             }
           }
@@ -438,38 +406,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/CourseToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/CourseToAdd"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/CourseToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/CourseToAdd"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/CourseToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/CourseToAdd"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/CourseToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/CourseToAdd"
               }
             }
           }
@@ -525,38 +477,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/CourseToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/CourseToUpdate"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/CourseToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/CourseToUpdate"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/CourseToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/CourseToUpdate"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/CourseToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/CourseToUpdate"
               }
             }
           }
@@ -794,38 +730,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             }
           }
@@ -884,38 +804,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             }
           }
@@ -974,38 +878,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             }
           }
@@ -1063,38 +951,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleToArchive"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleToArchive"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleToArchive"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleToArchive"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleToArchive"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleToArchive"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleToArchive"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleToArchive"
               }
             }
           }
@@ -1233,38 +1105,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleToArchive"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleToArchive"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleToArchive"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleToArchive"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleToArchive"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleToArchive"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleToArchive"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleToArchive"
               }
             }
           }
@@ -1358,38 +1214,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/EventToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/EventToAdd"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/EventToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/EventToAdd"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/EventToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/EventToAdd"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/EventToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/EventToAdd"
               }
             }
           }
@@ -1445,38 +1285,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/EventToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/EventToUpdate"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/EventToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/EventToUpdate"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/EventToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/EventToUpdate"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/EventToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/EventToUpdate"
               }
             }
           }
@@ -1573,38 +1397,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             }
           }
@@ -1663,38 +1471,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             }
           }
@@ -1858,38 +1650,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/LearnPathToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/LearnPathToAdd"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/LearnPathToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/LearnPathToAdd"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/LearnPathToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/LearnPathToAdd"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/LearnPathToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/LearnPathToAdd"
               }
             }
           }
@@ -2077,38 +1853,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleStatusToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleStatusToUpdate"
               }
             }
           }
@@ -2166,38 +1926,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleToArchive"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleToArchive"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleToArchive"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleToArchive"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleToArchive"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleToArchive"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ModuleToArchive"
-                  }
-                ]
+                "$ref": "#/components/schemas/ModuleToArchive"
               }
             }
           }
@@ -2481,38 +2225,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ReviewToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/ReviewToAdd"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ReviewToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/ReviewToAdd"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ReviewToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/ReviewToAdd"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/ReviewToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/ReviewToAdd"
               }
             }
           }
@@ -2550,38 +2278,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/SourceToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/SourceToAdd"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/SourceToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/SourceToAdd"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/SourceToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/SourceToAdd"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/SourceToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/SourceToAdd"
               }
             }
           }
@@ -2673,38 +2385,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/SourceOverview"
-                  }
-                ]
+                "$ref": "#/components/schemas/SourceOverview"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/SourceOverview"
-                  }
-                ]
+                "$ref": "#/components/schemas/SourceOverview"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/SourceOverview"
-                  }
-                ]
+                "$ref": "#/components/schemas/SourceOverview"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/SourceOverview"
-                  }
-                ]
+                "$ref": "#/components/schemas/SourceOverview"
               }
             }
           }
@@ -2907,38 +2603,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/SubjectToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/SubjectToAdd"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/SubjectToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/SubjectToAdd"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/SubjectToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/SubjectToAdd"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/SubjectToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/SubjectToAdd"
               }
             }
           }
@@ -2974,38 +2654,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/SubjectToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/SubjectToUpdate"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/SubjectToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/SubjectToUpdate"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/SubjectToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/SubjectToUpdate"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/SubjectToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/SubjectToUpdate"
               }
             }
           }
@@ -3228,38 +2892,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/UserToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/UserToAdd"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/UserToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/UserToAdd"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/UserToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/UserToAdd"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/UserToAdd"
-                  }
-                ]
+                "$ref": "#/components/schemas/UserToAdd"
               }
             }
           }
@@ -3545,38 +3193,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/UserSubjectsToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/UserSubjectsToUpdate"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/UserSubjectsToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/UserSubjectsToUpdate"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/UserSubjectsToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/UserSubjectsToUpdate"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/UserSubjectsToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/UserSubjectsToUpdate"
               }
             }
           }
@@ -3634,38 +3266,22 @@
           "content": {
             "application/json-patch+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/UserLanguageToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/UserLanguageToUpdate"
               }
             },
             "application/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/UserLanguageToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/UserLanguageToUpdate"
               }
             },
             "text/json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/UserLanguageToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/UserLanguageToUpdate"
               }
             },
             "application/*+json": {
               "schema": {
-                "allOf": [
-                  {
-                    "$ref": "#/components/schemas/UserLanguageToUpdate"
-                  }
-                ]
+                "$ref": "#/components/schemas/UserLanguageToUpdate"
               }
             }
           }
@@ -3691,6 +3307,139 @@
               }
             }
           },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ValidationBag"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ValidationBag"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ValidationBag"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/User/restore/{id}": {
+      "put": {
+        "tags": [
+          "User"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ValidationBag"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ValidationBag"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ValidationBag"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/User/changerole": {
+      "put": {
+        "tags": [
+          "User"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserRoleToChange"
+              }
+            },
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserRoleToChange"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserRoleToChange"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserRoleToChange"
+              }
+            }
+          }
+        },
+        "responses": {
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ValidationBag"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ValidationBag"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ValidationBag"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/User/archive/{id}": {
+      "delete": {
+        "tags": [
+          "User"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
           "400": {
             "description": "Bad Request",
             "content": {
@@ -3760,17 +3509,7 @@
             "format": "int32"
           },
           "approvalStatus": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/ApprovalStatus"
-              }
-            ],
-            "description": "\r\n\r\n0 = None\r\n\r\n1 = Approved\r\n\r\n2 = NotApproved",
-            "x-enumNames": [
-              "None",
-              "Approved",
-              "NotApproved"
-            ]
+            "$ref": "#/components/schemas/ApprovalStatus"
           },
           "moduleId": {
             "type": "integer",
@@ -3781,12 +3520,7 @@
             "format": "date-time"
           },
           "writtenBy": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/UserSimple"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/UserSimple"
           },
           "moduleName": {
             "type": "string",
@@ -3820,13 +3554,7 @@
           2
         ],
         "type": "integer",
-        "description": "\r\n\r\n0 = None\r\n\r\n1 = Approved\r\n\r\n2 = NotApproved",
-        "format": "int32",
-        "x-enumNames": [
-          "None",
-          "Approved",
-          "NotApproved"
-        ]
+        "format": "int32"
       },
       "ApprovalToEvaluate": {
         "type": "object",
@@ -3836,17 +3564,7 @@
             "format": "int32"
           },
           "status": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/ApprovalStatus"
-              }
-            ],
-            "description": "\r\n\r\n0 = None\r\n\r\n1 = Approved\r\n\r\n2 = NotApproved",
-            "x-enumNames": [
-              "None",
-              "Approved",
-              "NotApproved"
-            ]
+            "$ref": "#/components/schemas/ApprovalStatus"
           }
         },
         "additionalProperties": false
@@ -3867,12 +3585,7 @@
             "nullable": true
           },
           "source": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/SourceOverview"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/SourceOverview"
           },
           "subjects": {
             "type": "array",
@@ -3886,12 +3599,7 @@
             "format": "int32"
           },
           "creator": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/UserSimple"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/UserSimple"
           },
           "userModuleStates": {
             "type": "array",
@@ -3958,20 +3666,10 @@
             "format": "int32"
           },
           "source": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/SourceOverview"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/SourceOverview"
           },
           "creator": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/UserSimple"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/UserSimple"
           },
           "subjects": {
             "type": "array",
@@ -4034,12 +3732,7 @@
             "nullable": true
           },
           "source": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/SourceOverview"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/SourceOverview"
           },
           "subjects": {
             "type": "array",
@@ -4089,12 +3782,7 @@
             "nullable": true
           },
           "source": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/SourceOverview"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/SourceOverview"
           },
           "subjects": {
             "type": "array",
@@ -4144,62 +3832,7 @@
         "type": "object",
         "properties": {
           "validationErrorCode": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/ValidationErrorCode"
-              }
-            ],
-            "description": "\r\n\r\n0 = None\r\n\r\n1 = NoUsers\r\n\r\n2 = UserDoesNotExist\r\n\r\n3 = InvalidName\r\n\r\n4 = InvalidEmail\r\n\r\n5 = NoCourses\r\n\r\n6 = NoReviews\r\n\r\n7 = EmptyName\r\n\r\n8 = EmptyUrl\r\n\r\n9 = DuplicateSourceName\r\n\r\n10 = DuplicateSourceUrl\r\n\r\n11 = InvalidUrl\r\n\r\n12 = SubjectDoesNotExist\r\n\r\n13 = SourceDoesNotExist\r\n\r\n14 = EmptyDescription\r\n\r\n15 = PriceNegative\r\n\r\n16 = NoSubjects\r\n\r\n17 = DuplicateSubjects\r\n\r\n18 = TimeNegative\r\n\r\n19 = SubjectLoop\r\n\r\n20 = ParentSubjectDoesNotExist\r\n\r\n21 = DatePassed\r\n\r\n22 = EmptyContent\r\n\r\n23 = CourseDoesNotExist\r\n\r\n24 = EmptyAdId\r\n\r\n25 = DuplicateUser\r\n\r\n26 = OrganizationDoesNotExist\r\n\r\n27 = CourseAlreadyComplete\r\n\r\n28 = NotApproved\r\n\r\n29 = CourseAlreadyInactive\r\n\r\n30 = NoExistingUserModule\r\n\r\n31 = RatingOutOfRange\r\n\r\n32 = InvalidStatus\r\n\r\n33 = OutOfRange\r\n\r\n34 = EventDoesNotExist\r\n\r\n35 = AccessDenied\r\n\r\n36 = InterestsEmpty\r\n\r\n37 = EventAlreadyAttending\r\n\r\n38 = EventAlreadyOver\r\n\r\n39 = ApprovalRequestDoesNotExist\r\n\r\n40 = ModuleDoesNotExist\r\n\r\n41 = ExistingConnections\r\n\r\n42 = NoExistingConnections\r\n\r\n43 = DuplicateSource\r\n\r\n44 = SectionDoesNotExist\r\n\r\n45 = NoModulesAdded\r\n\r\n46 = NegativeAmount",
-            "readOnly": true,
-            "x-enumNames": [
-              "None",
-              "NoUsers",
-              "UserDoesNotExist",
-              "InvalidName",
-              "InvalidEmail",
-              "NoCourses",
-              "NoReviews",
-              "EmptyName",
-              "EmptyUrl",
-              "DuplicateSourceName",
-              "DuplicateSourceUrl",
-              "InvalidUrl",
-              "SubjectDoesNotExist",
-              "SourceDoesNotExist",
-              "EmptyDescription",
-              "PriceNegative",
-              "NoSubjects",
-              "DuplicateSubjects",
-              "TimeNegative",
-              "SubjectLoop",
-              "ParentSubjectDoesNotExist",
-              "DatePassed",
-              "EmptyContent",
-              "CourseDoesNotExist",
-              "EmptyAdId",
-              "DuplicateUser",
-              "OrganizationDoesNotExist",
-              "CourseAlreadyComplete",
-              "NotApproved",
-              "CourseAlreadyInactive",
-              "NoExistingUserModule",
-              "RatingOutOfRange",
-              "InvalidStatus",
-              "OutOfRange",
-              "EventDoesNotExist",
-              "AccessDenied",
-              "InterestsEmpty",
-              "EventAlreadyAttending",
-              "EventAlreadyOver",
-              "ApprovalRequestDoesNotExist",
-              "ModuleDoesNotExist",
-              "ExistingConnections",
-              "NoExistingConnections",
-              "DuplicateSource",
-              "SectionDoesNotExist",
-              "NoModulesAdded",
-              "NegativeAmount"
-            ]
+            "$ref": "#/components/schemas/ValidationErrorCode"
           },
           "namedParameters": {
             "nullable": true,
@@ -4220,12 +3853,7 @@
             "nullable": true
           },
           "source": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/SourceOverview"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/SourceOverview"
           },
           "subjects": {
             "type": "array",
@@ -4296,20 +3924,10 @@
             "format": "int32"
           },
           "source": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/SourceOverview"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/SourceOverview"
           },
           "creator": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/UserSimple"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/UserSimple"
           },
           "subjects": {
             "type": "array",
@@ -4357,12 +3975,7 @@
             "nullable": true
           },
           "source": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/SourceOverview"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/SourceOverview"
           },
           "subjects": {
             "type": "array",
@@ -4416,12 +4029,7 @@
             "nullable": true
           },
           "source": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/SourceOverview"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/SourceOverview"
           },
           "subjects": {
             "type": "array",
@@ -4499,12 +4107,7 @@
             "nullable": true
           },
           "source": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/SourceOverview"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/SourceOverview"
           },
           "subjects": {
             "type": "array",
@@ -4584,20 +4187,10 @@
             "nullable": true
           },
           "source": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/SourceOverview"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/SourceOverview"
           },
           "creator": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/UserSimple"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/UserSimple"
           },
           "subjects": {
             "type": "array",
@@ -4657,12 +4250,7 @@
             "nullable": true
           },
           "source": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/SourceOverview"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/SourceOverview"
           },
           "subjects": {
             "type": "array",
@@ -4710,20 +4298,7 @@
           9
         ],
         "type": "integer",
-        "description": "\r\n\r\n0 = None\r\n\r\n1 = Inactive\r\n\r\n2 = Active\r\n\r\n3 = WaitingForApproval\r\n\r\n4 = Declined\r\n\r\n5 = Complete\r\n\r\n6 = Archived\r\n\r\n7 = Attending\r\n\r\n8 = Attended\r\n\r\n9 = NotAttended",
-        "format": "int32",
-        "x-enumNames": [
-          "None",
-          "Inactive",
-          "Active",
-          "WaitingForApproval",
-          "Declined",
-          "Complete",
-          "Archived",
-          "Attending",
-          "Attended",
-          "NotAttended"
-        ]
+        "format": "int32"
       },
       "ModuleStatusToUpdate": {
         "type": "object",
@@ -4778,12 +4353,7 @@
             "format": "int32"
           },
           "spotlight": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/CourseCardInfo"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/CourseCardInfo"
           }
         },
         "additionalProperties": false
@@ -4834,6 +4404,12 @@
               "$ref": "#/components/schemas/EventCardInfo"
             },
             "nullable": true
+          },
+          "archived": {
+            "type": "boolean"
+          },
+          "role": {
+            "$ref": "#/components/schemas/UserRole"
           }
         },
         "additionalProperties": false
@@ -4854,12 +4430,7 @@
             "format": "int32"
           },
           "recentlyCompleted": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/CourseCardInfo"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/CourseCardInfo"
           }
         },
         "additionalProperties": false
@@ -4876,12 +4447,7 @@
             "format": "double"
           },
           "writtenBy": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/UserOverview"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/UserOverview"
           },
           "moduleId": {
             "type": "integer",
@@ -4898,12 +4464,7 @@
         "type": "object",
         "properties": {
           "writtenBy": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/UserSimple"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/UserSimple"
           },
           "content": {
             "type": "string",
@@ -5049,12 +4610,7 @@
             "nullable": true
           },
           "parentSubject": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/SubjectOverview"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/SubjectOverview"
           }
         },
         "additionalProperties": false
@@ -5100,13 +4656,7 @@
           2
         ],
         "type": "integer",
-        "description": "\r\n\r\n0 = None\r\n\r\n1 = Proficiency\r\n\r\n2 = Interest",
-        "format": "int32",
-        "x-enumNames": [
-          "None",
-          "Proficiency",
-          "Interest"
-        ]
+        "format": "int32"
       },
       "SubjectTypeOverview": {
         "type": "object",
@@ -5120,25 +4670,10 @@
             "nullable": true
           },
           "parentSubject": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/SubjectOverview"
-              }
-            ],
-            "nullable": true
+            "$ref": "#/components/schemas/SubjectOverview"
           },
           "type": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/SubjectType"
-              }
-            ],
-            "description": "\r\n\r\n0 = None\r\n\r\n1 = Proficiency\r\n\r\n2 = Interest",
-            "x-enumNames": [
-              "None",
-              "Proficiency",
-              "Interest"
-            ]
+            "$ref": "#/components/schemas/SubjectType"
           }
         },
         "additionalProperties": false
@@ -5205,24 +4740,7 @@
             "format": "int32"
           },
           "status": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/ModuleStatus"
-              }
-            ],
-            "description": "\r\n\r\n0 = None\r\n\r\n1 = Inactive\r\n\r\n2 = Active\r\n\r\n3 = WaitingForApproval\r\n\r\n4 = Declined\r\n\r\n5 = Complete\r\n\r\n6 = Archived\r\n\r\n7 = Attending\r\n\r\n8 = Attended\r\n\r\n9 = NotAttended",
-            "x-enumNames": [
-              "None",
-              "Inactive",
-              "Active",
-              "WaitingForApproval",
-              "Declined",
-              "Complete",
-              "Archived",
-              "Attending",
-              "Attended",
-              "NotAttended"
-            ]
+            "$ref": "#/components/schemas/ModuleStatus"
           },
           "saved": {
             "type": "boolean"
@@ -5238,24 +4756,7 @@
             "format": "int32"
           },
           "status": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/ModuleStatus"
-              }
-            ],
-            "description": "\r\n\r\n0 = None\r\n\r\n1 = Inactive\r\n\r\n2 = Active\r\n\r\n3 = WaitingForApproval\r\n\r\n4 = Declined\r\n\r\n5 = Complete\r\n\r\n6 = Archived\r\n\r\n7 = Attending\r\n\r\n8 = Attended\r\n\r\n9 = NotAttended",
-            "x-enumNames": [
-              "None",
-              "Inactive",
-              "Active",
-              "WaitingForApproval",
-              "Declined",
-              "Complete",
-              "Archived",
-              "Attending",
-              "Attended",
-              "NotAttended"
-            ]
+            "$ref": "#/components/schemas/ModuleStatus"
           },
           "saved": {
             "type": "boolean"
@@ -5287,17 +4788,7 @@
             "format": "int32"
           },
           "role": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/UserRole"
-              }
-            ],
-            "description": "\r\n\r\n0 = None\r\n\r\n1 = User\r\n\r\n2 = Admin",
-            "x-enumNames": [
-              "None",
-              "User",
-              "Admin"
-            ]
+            "$ref": "#/components/schemas/UserRole"
           },
           "language": {
             "type": "string",
@@ -5313,13 +4804,20 @@
           2
         ],
         "type": "integer",
-        "description": "\r\n\r\n0 = None\r\n\r\n1 = User\r\n\r\n2 = Admin",
-        "format": "int32",
-        "x-enumNames": [
-          "None",
-          "User",
-          "Admin"
-        ]
+        "format": "int32"
+      },
+      "UserRoleToChange": {
+        "type": "object",
+        "properties": {
+          "userId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "role": {
+            "$ref": "#/components/schemas/UserRole"
+          }
+        },
+        "additionalProperties": false
       },
       "UserSimple": {
         "type": "object",
@@ -5388,17 +4886,7 @@
             "format": "int32"
           },
           "role": {
-            "allOf": [
-              {
-                "$ref": "#/components/schemas/UserRole"
-              }
-            ],
-            "description": "\r\n\r\n0 = None\r\n\r\n1 = User\r\n\r\n2 = Admin",
-            "x-enumNames": [
-              "None",
-              "User",
-              "Admin"
-            ]
+            "$ref": "#/components/schemas/UserRole"
           }
         },
         "additionalProperties": false
@@ -5469,60 +4957,16 @@
           43,
           44,
           45,
-          46
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52
         ],
         "type": "integer",
-        "description": "\r\n\r\n0 = None\r\n\r\n1 = NoUsers\r\n\r\n2 = UserDoesNotExist\r\n\r\n3 = InvalidName\r\n\r\n4 = InvalidEmail\r\n\r\n5 = NoCourses\r\n\r\n6 = NoReviews\r\n\r\n7 = EmptyName\r\n\r\n8 = EmptyUrl\r\n\r\n9 = DuplicateSourceName\r\n\r\n10 = DuplicateSourceUrl\r\n\r\n11 = InvalidUrl\r\n\r\n12 = SubjectDoesNotExist\r\n\r\n13 = SourceDoesNotExist\r\n\r\n14 = EmptyDescription\r\n\r\n15 = PriceNegative\r\n\r\n16 = NoSubjects\r\n\r\n17 = DuplicateSubjects\r\n\r\n18 = TimeNegative\r\n\r\n19 = SubjectLoop\r\n\r\n20 = ParentSubjectDoesNotExist\r\n\r\n21 = DatePassed\r\n\r\n22 = EmptyContent\r\n\r\n23 = CourseDoesNotExist\r\n\r\n24 = EmptyAdId\r\n\r\n25 = DuplicateUser\r\n\r\n26 = OrganizationDoesNotExist\r\n\r\n27 = CourseAlreadyComplete\r\n\r\n28 = NotApproved\r\n\r\n29 = CourseAlreadyInactive\r\n\r\n30 = NoExistingUserModule\r\n\r\n31 = RatingOutOfRange\r\n\r\n32 = InvalidStatus\r\n\r\n33 = OutOfRange\r\n\r\n34 = EventDoesNotExist\r\n\r\n35 = AccessDenied\r\n\r\n36 = InterestsEmpty\r\n\r\n37 = EventAlreadyAttending\r\n\r\n38 = EventAlreadyOver\r\n\r\n39 = ApprovalRequestDoesNotExist\r\n\r\n40 = ModuleDoesNotExist\r\n\r\n41 = ExistingConnections\r\n\r\n42 = NoExistingConnections\r\n\r\n43 = DuplicateSource\r\n\r\n44 = SectionDoesNotExist\r\n\r\n45 = NoModulesAdded\r\n\r\n46 = NegativeAmount",
-        "format": "int32",
-        "x-enumNames": [
-          "None",
-          "NoUsers",
-          "UserDoesNotExist",
-          "InvalidName",
-          "InvalidEmail",
-          "NoCourses",
-          "NoReviews",
-          "EmptyName",
-          "EmptyUrl",
-          "DuplicateSourceName",
-          "DuplicateSourceUrl",
-          "InvalidUrl",
-          "SubjectDoesNotExist",
-          "SourceDoesNotExist",
-          "EmptyDescription",
-          "PriceNegative",
-          "NoSubjects",
-          "DuplicateSubjects",
-          "TimeNegative",
-          "SubjectLoop",
-          "ParentSubjectDoesNotExist",
-          "DatePassed",
-          "EmptyContent",
-          "CourseDoesNotExist",
-          "EmptyAdId",
-          "DuplicateUser",
-          "OrganizationDoesNotExist",
-          "CourseAlreadyComplete",
-          "NotApproved",
-          "CourseAlreadyInactive",
-          "NoExistingUserModule",
-          "RatingOutOfRange",
-          "InvalidStatus",
-          "OutOfRange",
-          "EventDoesNotExist",
-          "AccessDenied",
-          "InterestsEmpty",
-          "EventAlreadyAttending",
-          "EventAlreadyOver",
-          "ApprovalRequestDoesNotExist",
-          "ModuleDoesNotExist",
-          "ExistingConnections",
-          "NoExistingConnections",
-          "DuplicateSource",
-          "SectionDoesNotExist",
-          "NoModulesAdded",
-          "NegativeAmount"
-        ]
+        "format": "int32"
       }
     }
   }
